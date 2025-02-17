@@ -1,3 +1,3 @@
 # minhmain
 
-test main Minh hi muinh
+test main Minh main
