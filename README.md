@@ -1,3 +1,5 @@
 # minhmain
 
-test main Minh
+test main Minh main
+
+hello xin chao
