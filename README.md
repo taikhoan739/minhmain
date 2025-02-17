@@ -1,1 +1,3 @@
 # minhmain
+
+test main
