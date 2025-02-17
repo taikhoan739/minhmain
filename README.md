@@ -1,3 +1,3 @@
 # minhmain
 
-test main
+test main Minh
